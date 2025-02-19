@@ -1,7 +1,7 @@
 const { GoogleAuth } = require('google-auth-library');
 const axios = require('axios');
 const { cloudinaryService } = require('./cloudinaryService');
-const credentials = JSON.parse(process.env.GOOGLE_CREDENTIALS);
+const credentials = JSON.parse(process.env.GOOGLE_APPLICATION_CREDENTIALS);
 
 const getAccessToken = async () => {
     const auth = new GoogleAuth({
