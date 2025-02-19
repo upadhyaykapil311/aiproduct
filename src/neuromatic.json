@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "neuromatic",
+  "private_key_id": "e8e4283ab7f1b13d77f6155d438e1b21bc309939",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDnBxOVH8J9y5p8\nlN5GeFkJcbLAgVh9FaTd+q+VhJ2B/P8tDBUcKcTc8Ws7F+5qOnRQeV7dt8DeADrZ\nNFVnCiWNa5taTptMaSGrmg3GPtudAW37e+lO2R/au82jx2cLOdGMhXCVuioVo9Zc\n4WQSTHhxo5fDB6aazUDLm5SxFELFLHrjjYougWH6DyjaRygbZN4kvyu4KRYRfe7+\nHnQ4A5nLJX9UIgBnNbGODgCdbRedAET9r9x8u4Lq4BMlA0WzJvOsXVbUdGyUTVpy\nfBrczpOG1n6wuPGBeUFruiGkV28EvCZOP4cXbETpdiQoFElM2QeA7/euyt7DcdbG\nO7ZRy88JAgMBAAECggEAEgTPxrBA853HMVNNGNL3ItDu36vW8n6XKscMHc3HmSVZ\n47IPDXDGjXL46ZV+v2NKwiINP56+2LHM5Tb7ODum3SZY6gy6eRW0DhXIYD9z0oWT\nhetOsZsmrGE8czswssPyL5MSymLIOILcS8c6jmDPfhGD2y7EFEvQ83BxgvQxFv6w\nrhx23sQv4JweUeqSh/hC2B1V9/lH/Rm8YkLTNQ7odnYCVwMRB4SUkZhSHe+38nfX\n0cnRLHKeOwjy2zFvWdDIKWoxFZRlnXqFWNDFkbc+HCJCvDdI3L7aIb6/BfiPP6Az\n855Nh+i6JrpI5+Z3rlZohxBN7vkjrQPJtSp00OPoGQKBgQD5n0GFNcSs7FwCAHXl\nnVu+7qmoCa/kOfInrqza0iiAlgOsSyRtu6BZhfgo/2gvfIgNDrfajBSUIA/Erm/F\nSHsNwdy8SjlGaaYKMIwih9BoIGE+/rDt+TP22CaM65mmpEfTPIigkbqgDDcM06eK\n+mWIdv5WzP06keX93z3mHOCzJQKBgQDs7jJgtl/FUM+6Szxwt4qfB5kNuGCbEpUx\n6ZbWbha4rcipSi2s/BYnRFDayN+gLEy7Xr9djcxi08UEqJg7dvXSbIAgv8vBIU5m\nTWaFyt96L+yHQ/KTBN3mmwuEQipTsuTIRdAvW4k5UB2HW0R493h8fGrUbcHKDHYm\nbu8W+1yZFQKBgEJCV634W8Ba7QFLBgBxCI1h5H7KM3otN235G8Dpz/5x03/EYmMO\nTr30pa6cPRd9ws9UfNDyJfQ7nnPiqaCAYMmCEAma2iEqofxKbqgrzNIW5jlGechx\nQa3gKjt1vk9RhA86Hjog9JzPIT2yYOKvHIxgqZp4xy7o01fUDiYqvCpRAoGAM+kw\ngn4S17GQAdowIOYl6hgJEbd++xsEM05hrROryMTSvTyyaz9EP1A5guYWEQsDuN3W\ngdHqoRCTDyU9TXIQBA2fuQ0swGDiw4lb2B6N/kB3y184y7t6Pudji5PPoE0G0VZy\neZ3NoBAMmDaH9xUJggTkhyyRFArM7DjMC7YBIM0CgYEA1pd7UTdbS9Z1HRNgKm21\nNrklwlgIQBxmt8S1M4sbfv+UNqVZDt5q8PLFhAjWQuLrdltJYCVaoXNzQazPbfnH\nKr2vY4p1Y7BvjrJyXLCvKFDf5KUzz04mo3GGyAeBcOBBkgjBgPDcEeUlEH+G4JX8\nsy2frbB9930rkCHxK9y6pZI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "image-generation-user@neuromatic.iam.gserviceaccount.com",
+  "client_id": "109318830266193735670",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/image-generation-user%40neuromatic.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
