@@ -88,7 +88,8 @@ exports.generateEmailContent = async (req, res) => {
       detailedDescText: aiContent.match(/DETAILED_DESCRIPTION:(.*?)(?=BENEFITS:|$)/s)?.[1]?.trim(),
       benefitsText: aiContent.match(/BENEFITS:(.*?)(?=TESTIMONIALS:|$)/s)?.[1]?.trim(),
       testimonialsText: aiContent.match(/TESTIMONIALS:(.*?)(?=BRAND_STORY:|$)/s)?.[1]?.trim(),
-      brandStory: aiContent.match(/BRAND_STORY:(.*?)$/s)?.[1]?.trim()
+      brandStory: aiContent.match(/BRAND_STORY:(.*?)$/s)?.[1]?.trim(),
+      logoUrl: logoUrl
     };
 
     console.log("Parsed Sections:", sections);
@@ -163,6 +164,7 @@ exports.generateEmailContent = async (req, res) => {
     return res.json({
       emailContent: htmlTemplate,
       emailData: sections,
+
       success: true
     });
   } catch (error) {
